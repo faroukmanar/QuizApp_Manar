@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656290661070",
+    "project_id": "quizappmanar",
+    "storage_bucket": "quizappmanar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656290661070:android:b231188e8150c4d37c469f",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_manar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjchTf2EoOYB6O8UoBYZJcLGqWEyYlgjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
